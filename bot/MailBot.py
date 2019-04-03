@@ -19,7 +19,7 @@ from email.mime.multipart import MIMEMultipart
 __author__ = "Brandon Bailey"
 __copyright__ = "Copyright 2019, Brandon Bailey"
 __credits__ = ["Brandon Bailey"]
-__license__ = "GPL"
+__license__ = "GNU"
 __version__ = "1.0.0"
 __maintainer__ = "Brandon Bailey"
 __email__ = ""
