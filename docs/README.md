@@ -1,7 +1,7 @@
-**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg)](https://github.com/BrandonsGitRepo/MailIpBot/tree/master/bot)
+**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg)](https://github.com/BrandonsGitRepo/mail-ip-bot/tree/master/bot)
 
 
-# MailIpBot
+# mail-ip-bot
 
 little project to retrieve positional data from target user via email. Written in Python 2.7
 
@@ -76,11 +76,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/MailIpBot/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/mail-ip-bot/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BrandonsGitRepo/MailIpBot/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BrandonsGitRepo/mail-ip-bot/tags).
 
 ## Authors
 
@@ -90,7 +90,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/BrandonsGitRepo/MailIpBot/blob/master/docs/LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/BrandonsGitRepo/mail-ip-bot/blob/master/docs/LICENSE.md) file for details
 
 ## Acknowledgments
 
@@ -100,4 +100,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 
 ## Hosting
 
-Site is hosted here : [Project site](https://brandonsgitrepo.github.io/MailIpBot/)
+Site is hosted here : [Project site](https://brandonsgitrepo.github.io/mail-ip-bot/)
