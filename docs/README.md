@@ -19,11 +19,17 @@ Little project to retrieve positional data from target user via email. Written i
 What things you need to install the software and how to install them
 
 ```
+
 pip3 install json
+
 pip3 install socket
+
 pip3 install smtplib
+
 pip3 install pyautogui
+
 pip3 install requests
+
 ```
 
 ### Installing
