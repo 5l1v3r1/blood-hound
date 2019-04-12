@@ -28,7 +28,6 @@ pip3 install smtplib
 pip3 install pyautogui
 
 pip3 install requests
-
 ```
 
 ### Installing
