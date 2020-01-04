@@ -1,8 +1,4 @@
-**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg)](https://github.com/BrandonsGitRepo/mail-ip-bot/tree/master/bot)
-
-
-# mail-ip-bot
-
+# blood-hound
 Little project to retrieve positional data from target user via email. Written in Python 2.7
 
 
