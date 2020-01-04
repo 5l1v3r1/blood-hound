@@ -12,7 +12,7 @@ Little project to retrieve positional data from target user via email. Written i
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Make sure these things are installed below:
 
 ```
 pip3 install json
@@ -30,57 +30,23 @@ pip3 install requests
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
 ```
-Give the example
+pip3 install json
+
+pip3 install socket
+
+pip3 install smtplib
+
+pip3 install pyautogui
+
+pip3 install requests
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/mail-ip-bot/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/brandon-kyle-bailey/blood-hound/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BrandonsGitRepo/mail-ip-bot/tags).
 
 ## Authors
 
@@ -100,4 +66,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 
 ## Hosting
 
-Site is hosted here : [Project site](https://brandonsgitrepo.github.io/mail-ip-bot/)
+Site is hosted here : [Project site](https://brandon-kyle-bailey.github.io/blood-hound/)
