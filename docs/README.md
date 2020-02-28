@@ -53,7 +53,7 @@ Please read [CONTRIBUTING.md](https://github.com/brandon-kyle-bailey/blood-hound
 
 * **Brandon Bailey** - *Initial work* - [brandon-kyle-bailey](https://github.com/brandon-kyle-bailey)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/brandon-kyle-bailey) who participated in this project.
 
 ## License
 
